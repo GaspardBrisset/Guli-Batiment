@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include_once 'header.php'; ?>
 <!-- Section Galerie -->
 <section id="gallery">
     <h2>Galerie</h2>
@@ -43,4 +43,4 @@
         <!-- Ajoutez plus d'images si nécessaire -->
     </div>
 </section>
-<?php include 'footer.php'; ?>
+<?php include_once 'footer.php'; ?>

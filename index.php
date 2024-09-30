@@ -1,5 +1,5 @@
 <?php
-include 'header.php';
+include_once 'header.php';
 ?>
     <section class="hero" id="home">
             <h1>Entrepreneur en maçonnerie à Veyre-Monton</h1>
@@ -28,5 +28,5 @@ include 'header.php';
 </body>
 </html>
 <?php
-include 'footer.php';
+include_once 'footer.php';
 ?>

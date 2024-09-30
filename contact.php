@@ -7,7 +7,7 @@
     <title>Contact</title>
 </head>
 <body id="contact-page">
-    <?php include 'header.php'; ?>
+    <?php include_once 'header.php'; ?>
     <!-- Section Contact -->
     <section id="contact">
         <h2>Contactez-nous</h2>
@@ -36,6 +36,6 @@
             <button type="submit">Envoyer</button>
         </form>
     </section>
-    <?php include 'footer.php'; ?>
+    <?php include_once 'footer.php'; ?>
 </body>
 </html>

@@ -18,4 +18,4 @@
     </div>
     <a href="../galerie.php" class="back-button">Retour à la galerie</a>
 </section>
-<?php include '../footer.php'; ?>
+<?php include_once '../footer.php'; ?>
