@@ -3,8 +3,9 @@
         <div class="footer-section">
             <h3>Contactez-nous</h3>
             <div class="contact-info">
-                <p>Adresse : 123 Rue du Bâtiment, 75000 Paris</p>
-                <p>Téléphone : +33 1 23 45 67 89</p>
+                <p>Adresse : 6, chemin notre Dame 
+                63960 Monton </p>
+                <p>Téléphone : 06.19.36.42.41</p>
                 <p>Email : guli.batiment.contact@gmail.com</p>
             </div>
         </div>
