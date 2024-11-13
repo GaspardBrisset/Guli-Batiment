@@ -5,7 +5,7 @@
             <div class="contact-info">
                 <p>Adresse : 123 Rue du Bâtiment, 75000 Paris</p>
                 <p>Téléphone : +33 1 23 45 67 89</p>
-                <p>Email : contact@guli-batiment.com</p>
+                <p>Email : guli.batiment.contact@gmail.com</p>
             </div>
         </div>
     </div>

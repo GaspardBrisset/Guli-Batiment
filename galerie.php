@@ -6,40 +6,23 @@
     <div class="gallery-grid">
         <div class="gallery-item">
             <a href="projets/projet1.php">
-                <img src="images/belle-maison-archi-LCL.jpg" alt="Projet 1">
-                <div class="gallery-caption">Projet 1 - Description du projet.</div>
+                <img src="images/IMG_20240611_090928.jpg" alt="Projet 1">
+                <div class="gallery-caption">Projet 1 - Réalisation de logement.</div>
             </a>
         </div>
         <div class="gallery-item">
-            <a href="projet2.php">
-                <img src="images/belle-maison-archi-LCL.jpg" alt="Projet 2">
-                <div class="gallery-caption">Projet 2 - Description du projet.</div>
+            <a href="projets/projet2.php">
+                <img src="images/IMG_20231031_101709.jpg" alt="Projet 2">
+                <div class="gallery-caption">Projet 2 - Mur de soutènement et aménagements.</div>
             </a>
         </div>
         <div class="gallery-item">
-            <a href="projet3.php">
-                <img src="images/belle-maison-archi-LCL.jpg" alt="Projet 3">
-                <div class="gallery-caption">Projet 3 - Description du projet.</div>
+            <a href="projets/projet3.php">
+                <img src="images/IMG_20220816_074344_1.jpg" alt="Projet 3">
+                <div class="gallery-caption">Projet 3 - Travaux d'aménagements extérieurs.</div>
             </a>
         </div>
-        <div class="gallery-item">
-            <a href="projet1.php">
-                <img src="images/belle-maison-archi-LCL.jpg" alt="Projet 1">
-                <div class="gallery-caption">Projet 1 - Description du projet.</div>
-            </a>
-        </div>
-        <div class="gallery-item">
-            <a href="projet2.php">
-                <img src="images/belle-maison-archi-LCL.jpg" alt="Projet 2">
-                <div class="gallery-caption">Projet 2 - Description du projet.</div>
-            </a>
-        </div>
-        <div class="gallery-item">
-            <a href="projet3.php">
-                <img src="images/belle-maison-archi-LCL.jpg" alt="Projet 3">
-                <div class="gallery-caption">Projet 3 - Description du projet.</div>
-            </a>
-        </div>
+        
         <!-- Ajoutez plus d'images si nécessaire -->
     </div>
 </section>

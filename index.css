@@ -13,8 +13,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color: #000000;
+    color: #ebedef;
     padding: 20px;
     text-align: center;
 }
@@ -24,7 +24,7 @@ nav {
     justify-content: space-between; /* Sépare les deux parties (gauche et droite) */
     align-items: center; /* Aligne les éléments verticalement */
     padding: 10px 20px;
-    background-color: #333;
+    background-color: #000000;
 }
 .nav-left {
     display: flex;
@@ -32,7 +32,7 @@ nav {
 justify-content: space-around;}
 
 .logo img {
-    max-width: 50px; /* Taille du logo ajustable */
+    max-width: 120px; /* Taille du logo ajustable */
     height: auto;
 }
 .site-title {
@@ -52,20 +52,20 @@ nav ul {
 }
 
 nav ul li a {
-    color: white;
+    color: #ebedef;
     text-decoration: none;
     font-size: 18px;
 }
 
 .hero {
-    background: url('images/belle-maison-archi-LCL.jpg') no-repeat center center;
-    height: 80vh;
+    background: url('images/photoIllusatrion.avif') no-repeat center center;
+    height: 70vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: white;
+    color: #ebedef;
     position: relative;
     background-size: cover;
     /* S'assure que l'image couvre toute la section */
@@ -93,7 +93,7 @@ nav ul li a {
 .cta {
     padding: 10px 20px;
     background-color: #f39c12;
-    color: white;
+    color: #ebedef;
     text-decoration: none;
     font-size: 18px;
     border-radius: 5px;
@@ -124,7 +124,7 @@ section h2 {
 
 .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
 }
 
@@ -153,20 +153,20 @@ form textarea {
 form button {
     padding: 10px 20px;
     background-color: #3498db;
-    color: white;
+    color: #ebedef;
     border: none;
     font-size: 18px;
     border-radius: 5px;
 }
 
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #000000;
+    color: #ebedef;
     text-align: center;
     padding: 20px 0;
 }
 body#contact-page {
-    background: url('images/belle-maison-archi-LCL.jpg') no-repeat center center/cover; /* Image de fond */
+    background: url('images/photoIllusatrion.avif') no-repeat center center/cover; /* Image de fond */
     font-family: Arial, sans-serif; /* Police par défaut */
     margin: 0; /* Supprime les marges par défaut */
     padding: 0; /* Supprime le padding par défaut */
@@ -205,7 +205,7 @@ textarea {
 button {
     padding: 10px 15px; /* Espacement intérieur */
     background-color: #007BFF; /* Couleur de fond du bouton */
-    color: white; /* Couleur du texte */
+    color: #ebedef; /* Couleur du texte */
     border: none; /* Pas de bordure */
     border-radius: 4px; /* Coins arrondis */
     cursor: pointer; /* Pointeur de la souris */
@@ -278,7 +278,7 @@ button:hover {
 }
 footer {
     background-color: #333;
-    color: white;
+    color: #ebedef;
     padding: 10px 20px;
 }
 
@@ -324,7 +324,7 @@ footer {
 
 .gallery-grid {
     display: grid; /* Utiliser un layout en grille */
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Colonnes responsives */
+    grid-template-columns: repeat(3, minmax(250px, 1fr)); /* Colonnes responsives */
     gap: 20px; /* Espacement entre les éléments */
     margin-top: 20px; /* Espacement au-dessus de la grille */
 }
@@ -351,7 +351,7 @@ footer {
     left: 0; /* Aligne à gauche */
     right: 0; /* Aligne à droite */
     background: rgba(0, 0, 0, 0.5); /* Fond semi-transparent */
-    color: white; /* Couleur du texte */
+    color: #ebedef; /* Couleur du texte */
     padding: 10px; /* Espacement intérieur */
     text-align: center; /* Centre le texte */
 }
@@ -361,7 +361,7 @@ footer {
     max-width: 800px;
     margin: 50px auto;
     padding: 30px; /* Augmentation du padding pour plus d'espace */
-    background-color: #ffffff; /* Un fond blanc pur pour plus de contraste */
+    background-color: #ebedef; /* Un fond blanc pur pour plus de contraste */
     border-radius: 12px; /* Coins plus arrondis pour une apparence moderne */
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15); /* Ombre plus douce et prononcée */
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animation pour effet au survol */
@@ -417,7 +417,7 @@ footer {
     font-family: 'Arial', sans-serif;
     font-size: 17px; /* Aligné avec les paragraphes */
     line-height: 1.8;
-    color: #333; /* Couleur plus foncée pour plus de visibilité */
+    color: #000000; /* Couleur plus foncée pour plus de visibilité */
     margin-bottom: 10px;
     position: relative;
 }
@@ -456,4 +456,38 @@ footer {
     border-radius: 8px;
     margin-bottom: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Ajout d'une ombre légère pour plus de profondeur */
+}
+#contact-confirmation {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#contact-confirmation h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+#contact-confirmation p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+#contact-confirmation a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #ebedef;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+}
+
+#contact-confirmation a:hover {
+    background-color: #0056b3;
 }

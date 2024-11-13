@@ -12,7 +12,7 @@
         <nav>
         <div class="nav-left">
             <a href="../index.php" class="logo">
-                <img src="../images/pngtree-building-and-construction-logo-design-template-png-image_5137683.jpg" alt="Logo de GULI-BATIMENT">
+                <img src="../images/logo.jpg" alt="Logo de GULI-BATIMENT">
             </a>
             <div class="site-title">GULI-BATIMENT</div>
         </div>
