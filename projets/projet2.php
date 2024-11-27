@@ -11,9 +11,9 @@
     <p>
     </p>
     <div class="project-gallery">
-        <img src="../images/IMG_20231031_101709.jpg" alt="Image 1 du Projet 2">
-        <img src="../images/IMG_20231031_101659_1.jpg" alt="Image 2 du Projet 2">
-        <img src="../images/IMG_20241026_170015.jpg" alt="Image 3 du Projet 2">
+        <img src="../images/IMG_20231031_101709.jpg" alt="Transformation des espaces extérieurs 1">
+        <img src="../images/IMG_20231031_101659_1.jpg" alt="Transformation des espaces extérieurs 2">
+        <img src="../images/IMG_20241026_170015.jpg" alt="Transformation des espaces extérieurs 3">
         <!-- Ajoutez plus d'images si nécessaire -->
     </div>
     <a href="../galerie.php" class="back-button">Retour à la galerie</a>
