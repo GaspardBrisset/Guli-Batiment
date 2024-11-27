@@ -491,3 +491,101 @@ footer {
 #contact-confirmation a:hover {
     background-color: #0056b3;
 }
+/* Styles pour les petits écrans */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px; /* Réduit la taille générale de la police */
+    }
+
+    header, nav {
+        flex-direction: column; /* Les éléments passent en colonne */
+        text-align: center;
+        padding: 15px;
+    }
+
+    .nav-left {
+        flex-direction: column; /* Logo et titre empilés verticalement */
+    }
+
+    .site-title {
+        margin-left: 0; /* Supprime l'espacement gauche pour centrer */
+    }
+
+    nav ul {
+        flex-direction: column; /* Les liens de navigation sont empilés */
+        gap: 10px;
+    }
+
+    .hero {
+        height: 50vh; /* Réduit la hauteur pour les petits écrans */
+        background-size: contain; /* Ajuste l'image pour éviter le débordement */
+    }
+
+    .hero h1 {
+        font-size: 1.8em; /* Réduit la taille du titre */
+    }
+
+    .cta {
+        font-size: 1em;
+        padding: 8px 15px; /* Ajuste la taille du bouton */
+    }
+
+    .service-list {
+        flex-direction: column; /* Les services sont empilés verticalement */
+        gap: 20px; /* Espacement entre les services */
+    }
+
+    .gallery-grid {
+        grid-template-columns: 1fr; /* Une seule colonne d'images */
+        gap: 10px;
+    }
+
+    #contact {
+        padding: 20px; /* Réduit l'espacement intérieur */
+    }
+
+    .about-section {
+        flex-direction: column; /* Les éléments passent en colonne */
+        text-align: center;
+    }
+
+    .about-image, .about-text {
+        width: 100%; /* Chaque élément occupe toute la largeur */
+        margin: 0;
+    }
+
+    #project {
+        padding: 20px; /* Réduit l'espacement pour mieux s'adapter */
+        box-shadow: none; /* Supprime l'ombre pour plus de simplicité */
+    }
+
+    #project h2 {
+        font-size: 24px; /* Réduit la taille du titre */
+    }
+
+    #project p {
+        font-size: 14px; /* Réduit la taille des paragraphes */
+    }
+
+    footer {
+        padding: 10px; /* Réduit l'espacement intérieur */
+    }
+
+    .footer-section {
+        align-items: center; /* Centre les éléments */
+        text-align: center;
+    }
+
+    #contact-confirmation {
+        width: 90%; /* Augmente la largeur pour remplir l'écran */
+        padding: 15px;
+    }
+
+    #contact-confirmation h2 {
+        font-size: 1.5em;
+    }
+
+    #contact-confirmation p {
+        font-size: 1em;
+    }
+}

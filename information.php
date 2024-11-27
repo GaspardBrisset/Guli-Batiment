@@ -1,6 +1,8 @@
 <?php
 include_once 'header.php';
 ?>
+<title>Entreprise Guli Bâtiment Clermont-Ferrand | Information</title>
+<meta name="description" content="Informations sur l'entreprise Guli Bâtiment créée en 2006 et spécialisée dans le domaine de la construction.">
 <section id="about" class="about">
     <div class="container">
         <h2>À propos de nous</h2>

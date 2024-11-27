@@ -9,6 +9,8 @@
 <body>
     <!-- En-tête -->
     <header>
+    <link rel="shortcut icon" href="../images/logo.jpg" />
+
         <nav>
         <div class="nav-left">
             <a href="../index.php" class="logo">

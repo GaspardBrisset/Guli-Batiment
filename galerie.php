@@ -1,5 +1,7 @@
 <?php include_once 'header.php'; ?>
 <!-- Section Galerie -->
+<title>Entreprise Guli Bâtiment Clermont-Ferrand | Galerie</title>
+<meta name="description" content="L'entreprise Guli Bâtiment à réalisés au fil des années plusieurs projet">
 <section id="gallery">
     <h2>Galerie</h2>
     <p>Découvrez nos projets réalisés au fil des années.</p>

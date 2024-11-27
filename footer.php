@@ -4,7 +4,7 @@
             <h3>Contactez-nous</h3>
             <div class="contact-info">
                 <p>Adresse : 6, chemin notre Dame 
-                63960 Monton </p>
+                63960 Veyre-Monton </p>
                 <p>Téléphone : 06.19.36.42.41</p>
                 <p>Email : guli.batiment.contact@gmail.com</p>
             </div>

@@ -4,11 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Contact</title>
-</head>
+    <title>Entreprise Guli Bâtiment Clermont-Ferrand | Contact</title>
+    </head>
 <body id="contact-page">
     <?php include_once 'header.php'; ?>
     <!-- Section Contact -->
+     <meta name="description" content="Moyen de contact pour l'entreprise Guli Bâtiment à Clermont-Ferrand">
+
     <section id="contact">
         <h2>Contactez-nous</h2>
         <p>Pour toute question ou demande de devis, n'hésitez pas à nous contacter via le formulaire ci-dessous.</p>
