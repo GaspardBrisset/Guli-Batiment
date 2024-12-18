@@ -234,7 +234,6 @@ button:hover {
 }
 
 .contact-info {
-    display: flex; /* Utiliser flexbox pour les informations de contact */
     justify-content: space-between; /* Espace entre les éléments */
     align-items: center; /* Aligne les éléments verticalement */
     margin-top: 10px; /* Ajoute un espace entre le titre et les informations */
@@ -587,5 +586,30 @@ footer {
 
     #contact-confirmation p {
         font-size: 1em;
+    }
+    .footer-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .footer-section {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .contact-info p {
+        margin: 5px 0;
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .footer-bottom {
+        text-align: center;
+        font-size: 14px;
+        margin-top: 10px;
+        padding: 10px 0;
     }
 }

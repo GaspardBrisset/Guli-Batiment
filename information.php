@@ -9,7 +9,7 @@ include_once 'header.php';
 
         <!-- Première section avec l'image à gauche -->
         <div class="about-section">
-            <alt src="images/imageIllustration1.jpg" alt="Notre histoire" class="about-image">
+            <img src="images/imageIllustration1.jpg" alt="Notre histoire" class="about-image">
             <div class="about-text">
                 <h3>Notre histoire</h3>
                 <p>
@@ -36,12 +36,12 @@ include_once 'header.php';
                 </p>
                 </p>
             </div>
-            <alt src="images/imageIllustration2.jpg" alt="Nos valeurs" class="about-image">
+            <img src="images/imageIllustration2.jpg" alt="Nos valeurs" class="about-image">
         </div>
 
         <!-- Troisième section avec l'image à gauche -->
         <div class="about-section">
-            <alt src="images/imageIllustration3.jpg" alt="Notre équipe" class="about-image">
+            <img src="images/imageIllustration3.jpg" alt="Notre équipe" class="about-image">
             <div class="about-text">
                 <h3>Notre équipe</h3>
                 <p>

@@ -62,36 +62,7 @@ try {
     $successMessage = "Il y a un problème dans votre mail.";
     $successTitre = "Erreur d'envoi.";
 }
-/*
 
-$mailExpediteur = 'guli.batiment.contact@gmail.com';
-$mail = new PHPMailer(true);
-
-$mail->CharSet = 'UTF-8';
-$mail->isSMTP();
-$mail->Host = 'smtp.gmail.com';
-$mail->Port = 587;
-$mail->SMTPSecure = '587';
-$mail->SMTPAuth = true;
-$mail->Username = $mailExpediteur;
-$mail->Password = "79uCm,dApT)72{";
-$mail->SetFrom($mailExpediteur);
-$mail->addAddress("brissetgaspard@gmail.com", "brissetgaspard@gmail.com");
-$mail->Subject = 'Nouvelle activation siteKey ';
-$mail->msgHTML($message);
-$mail->AltBody = $message;
-
-if (!$mail->send()) {
-    echo 'Mailer Error: ' . $mail->ErrorInfo;
-}
-try {
-
-} catch (Exception $e) {
-    $successMessage = "Il y a un problème dans votre mail.";
-    $successTitre = "Erreur d'envoi.";
-
-    echo "L'email n'a pas pu être envoyé. Erreur : {$mail->ErrorInfo}";
-}*/
 ?>
 <?php
 include_once 'header.php';
