@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GULI-BATIMENT</title>
     <link rel="stylesheet" href="../index.css">
+    <link rel="icon" type="image/png" href="images/favicon.ico" sizes="96x96" />
+
 </head>
 <body>
     <!-- En-tête -->

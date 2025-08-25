@@ -20,9 +20,9 @@ include_once 'header.php';
 <section id="gallery">
     <h2>Galerie</h2>
     <div class="gallery-grid">
-        <img src="images/IMG_20220816_074339.jpg" alt="Projet 1">
-        <img src="images/IMG_20220816_074413.jpg" alt="Projet 2">
-        <img src="images/IMG_20231031_101659_1.jpg" alt="Projet 3">
+    <img src="../images/IMG_2814.jpeg" alt="Projet 1">
+        <img src="../images/IMG_20240927_092408.jpg" alt="Projet 2">
+        <img src="../images/IMG_1203.jpeg" alt="Projet 3">
     </div>
 </section>
 </body>
