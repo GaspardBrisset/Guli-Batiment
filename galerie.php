@@ -29,14 +29,15 @@
                 <img src="images/IMG_2506.jpeg" alt="Aménagement extérieur">
                 <div class="gallery-caption">Projet 4 - Aménagement extérieur.</div>
             </a>
-        </div><div class="gallery-item">
+        </div>
+        <div class="gallery-item">
             <a href="projets/projet5.php">
                 <img src="images/IMG_1301.jpeg" alt="Radier piscine">
                 <div class="gallery-caption">Projet 5 - Radier piscine.</div>
             </a>
         </div><div class="gallery-item">
             <a href="projets/projet6.php">
-                <img src="images/IMG_20240927_092408.jpg" alt="Bâtiment agricole">
+                <img src="images/IMG_3759.jpeg" alt="Bâtiment agricole">
                 <div class="gallery-caption">Projet 6 - Bâtiment agricole.</div>
             </a>
         </div>
