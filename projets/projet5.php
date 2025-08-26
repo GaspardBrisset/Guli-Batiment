@@ -9,11 +9,11 @@
     <p>
     </p>
     <div class="project-gallery">
-        <img src="../images/IMG_3471.jpeg" alt="Radier piscine 1">
+        <img src="../images/IMG_3322.jpeg" alt="Radier piscine 1">
         <img src="../images/IMG_3330.jpeg" alt="Radier piscine 2">
-        <img src="../images/IMG_3322.jpeg" alt="Radier piscine 3">
+        <img src="../images/IMG_3365.jpeg" alt="Radier piscine 3">
         <img src="../images/IMG_3429.jpeg" alt="Radier piscine 4">
-        <img src="../images/IMG_3365.jpeg" alt="Radier piscine 5">
+        <img src="../images/IMG_3471.jpeg" alt="Radier piscine 5">
         <img src="../images/IMG_3480.jpeg" alt="Radier piscine 6">
         <img src="../images/IMG_3478.jpeg" alt="Radier piscine 7">
         <img src="../images/IMG_3473.jpeg" alt="Radier piscine 8">

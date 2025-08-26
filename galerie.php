@@ -32,7 +32,7 @@
         </div>
         <div class="gallery-item">
             <a href="projets/projet5.php">
-                <img src="images/IMG_1301.jpeg" alt="Radier piscine">
+                <img src="images/IMG_3365.jpeg" alt="Radier piscine">
                 <div class="gallery-caption">Projet 5 - Radier piscine.</div>
             </a>
         </div><div class="gallery-item">
