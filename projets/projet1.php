@@ -14,6 +14,12 @@
         <img src="../images/IMG_20240611_090928.jpg" alt="Construction logements 1">
         <img src="../images/IMG_8478608051237346559.jpg" alt="Construction logements 2">
         <img src="../images/IMG_20240927_092408.jpg" alt="Construction logements 3">
+        <img src="../images/image0000051.jpeg" alt="Construction logements 4">
+        <img src="../images/image0000041.jpeg" alt="Construction logements 5">
+        <img src="../images/IMG_2972.jpeg" alt="Construction logements 6">
+        <img src="../images/IMG_2975.jpeg" alt="Construction logements 7">
+        <img src="../images/IMG_2978.jpeg" alt="Construction logements 8">
+
         <!-- Ajoutez plus d'images si nécessaire -->
     </div>
     <a href="../galerie.php" class="back-button">Retour à la galerie</a>

@@ -11,8 +11,11 @@
     <p>
     </p>
     <div class="project-gallery">
-        <img src="../images/IMG_2507.jpeg" alt="Aménagement extérieur 1">
+        <img src="../images/image0000001.jpeg" alt="Aménagement extérieur 1">
         <img src="../images/IMG_2506.jpeg" alt="Aménagement extérieur 2">
+        <img src="../images/IMG_2508.jpeg" alt="Aménagement extérieur 3">
+        <img src="../images/IMG_3561.jpeg" alt="Aménagement extérieur 4">
+
     </div>
     <a href="../galerie.php" class="back-button">Retour à la galerie</a>
 </section>
